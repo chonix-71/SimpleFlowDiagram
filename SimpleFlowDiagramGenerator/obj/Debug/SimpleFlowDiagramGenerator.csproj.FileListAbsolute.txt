@@ -7,3 +7,14 @@ D:\Git\SimpleFlowDiagram\SimpleFlowDiagram\SimpleFlowDiagramGenerator\bin\Debug\
 D:\Git\SimpleFlowDiagram\SimpleFlowDiagram\SimpleFlowDiagramGenerator\obj\Debug\SimpleFlowDiagramGenerator.csprojResolveAssemblyReference.cache
 D:\Git\SimpleFlowDiagram\SimpleFlowDiagram\SimpleFlowDiagramGenerator\obj\Debug\SimpleFlowDiagramGenerator.exe
 D:\Git\SimpleFlowDiagram\SimpleFlowDiagram\SimpleFlowDiagramGenerator\obj\Debug\SimpleFlowDiagramGenerator.pdb
+D:\git\SimpleFlowDiagram\SimpleFlowDiagramGenerator\bin\Debug\SimpleFlowDiagramGenerator.exe.config
+D:\git\SimpleFlowDiagram\SimpleFlowDiagramGenerator\bin\Debug\SimpleFlowDiagramGenerator.exe
+D:\git\SimpleFlowDiagram\SimpleFlowDiagramGenerator\bin\Debug\SimpleFlowDiagramGenerator.pdb
+D:\git\SimpleFlowDiagram\SimpleFlowDiagramGenerator\bin\Debug\SimpleFlowDiagramLib.dll
+D:\git\SimpleFlowDiagram\SimpleFlowDiagramGenerator\bin\Debug\LearningMahesh.DynamicIOStream.dll
+D:\git\SimpleFlowDiagram\SimpleFlowDiagramGenerator\bin\Debug\SimpleFlowDiagramLib.pdb
+D:\git\SimpleFlowDiagram\SimpleFlowDiagramGenerator\obj\Debug\SimpleFlowDiagramGenerator.csproj.AssemblyReference.cache
+D:\git\SimpleFlowDiagram\SimpleFlowDiagramGenerator\obj\Debug\SimpleFlowDiagramGenerator.csproj.CoreCompileInputs.cache
+D:\git\SimpleFlowDiagram\SimpleFlowDiagramGenerator\obj\Debug\SimpleFlowDiagramGenerator.csproj.CopyComplete
+D:\git\SimpleFlowDiagram\SimpleFlowDiagramGenerator\obj\Debug\SimpleFlowDiagramGenerator.exe
+D:\git\SimpleFlowDiagram\SimpleFlowDiagramGenerator\obj\Debug\SimpleFlowDiagramGenerator.pdb

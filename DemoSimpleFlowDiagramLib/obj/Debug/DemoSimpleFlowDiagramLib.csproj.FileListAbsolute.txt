@@ -13,7 +13,6 @@ D:\Git\SimpleFlowDiagram\DemoSimpleFlowDiagramLib\bin\Debug\DemoSimpleFlowDiagra
 D:\Git\SimpleFlowDiagram\DemoSimpleFlowDiagramLib\bin\Debug\DemoSimpleFlowDiagramLib.pdb
 D:\Git\SimpleFlowDiagram\DemoSimpleFlowDiagramLib\bin\Debug\SimpleFlowDiagramLib.dll
 D:\Git\SimpleFlowDiagram\DemoSimpleFlowDiagramLib\bin\Debug\SimpleFlowDiagramLib.pdb
-D:\Git\SimpleFlowDiagram\DemoSimpleFlowDiagramLib\obj\Debug\DemoSimpleFlowDiagramLib.csprojResolveAssemblyReference.cache
 D:\Git\SimpleFlowDiagram\SimpleFlowDiagram\DemoSimpleFlowDiagramLib\bin\Debug\DemoSimpleFlowDiagramLib.exe.config
 D:\Git\SimpleFlowDiagram\SimpleFlowDiagram\DemoSimpleFlowDiagramLib\obj\Debug\DemoSimpleFlowDiagramLib.exe
 D:\Git\SimpleFlowDiagram\SimpleFlowDiagram\DemoSimpleFlowDiagramLib\obj\Debug\DemoSimpleFlowDiagramLib.pdb
@@ -23,3 +22,7 @@ D:\Git\SimpleFlowDiagram\SimpleFlowDiagram\DemoSimpleFlowDiagramLib\bin\Debug\Si
 D:\Git\SimpleFlowDiagram\SimpleFlowDiagram\DemoSimpleFlowDiagramLib\bin\Debug\SimpleFlowDiagramLib.pdb
 D:\Git\SimpleFlowDiagram\SimpleFlowDiagram\DemoSimpleFlowDiagramLib\obj\Debug\DemoSimpleFlowDiagramLib.csprojResolveAssemblyReference.cache
 D:\Git\SimpleFlowDiagram\SimpleFlowDiagram\DemoSimpleFlowDiagramLib\bin\Debug\LearningMahesh.DynamicIOStream.dll
+D:\git\SimpleFlowDiagram\DemoSimpleFlowDiagramLib\bin\Debug\LearningMahesh.DynamicIOStream.dll
+D:\git\SimpleFlowDiagram\DemoSimpleFlowDiagramLib\obj\Debug\DemoSimpleFlowDiagramLib.csproj.AssemblyReference.cache
+D:\git\SimpleFlowDiagram\DemoSimpleFlowDiagramLib\obj\Debug\DemoSimpleFlowDiagramLib.csproj.CoreCompileInputs.cache
+D:\git\SimpleFlowDiagram\DemoSimpleFlowDiagramLib\obj\Debug\DemoSimpleFlowDiagramLib.csproj.CopyComplete

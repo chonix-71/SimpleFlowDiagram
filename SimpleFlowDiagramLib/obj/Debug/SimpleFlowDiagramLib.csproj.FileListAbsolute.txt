@@ -9,7 +9,6 @@ G:\Others\Dataflow_MsSQLProfiler\SimpleFlowDiagramLib\obj\Debug\SimpleFlowDiagra
 G:\Others\Dataflow_MsSQLProfiler\SimpleFlowDiagramLib\obj\Debug\SimpleFlowDiagramLib.pdb
 D:\Git\SimpleFlowDiagram\SimpleFlowDiagramLib\bin\Debug\SimpleFlowDiagramLib.dll
 D:\Git\SimpleFlowDiagram\SimpleFlowDiagramLib\bin\Debug\SimpleFlowDiagramLib.pdb
-D:\Git\SimpleFlowDiagram\SimpleFlowDiagramLib\obj\Debug\SimpleFlowDiagramLib.csprojResolveAssemblyReference.cache
 D:\Git\SimpleFlowDiagram\SimpleFlowDiagramLib\obj\Debug\SimpleFlowDiagramLib.dll
 D:\Git\SimpleFlowDiagram\SimpleFlowDiagramLib\obj\Debug\SimpleFlowDiagramLib.pdb
 D:\Git\SimpleFlowDiagram\SimpleFlowDiagram\SimpleFlowDiagramLib\bin\Debug\SimpleFlowDiagramLib.dll
@@ -18,3 +17,7 @@ D:\Git\SimpleFlowDiagram\SimpleFlowDiagram\SimpleFlowDiagramLib\obj\Debug\Simple
 D:\Git\SimpleFlowDiagram\SimpleFlowDiagram\SimpleFlowDiagramLib\obj\Debug\SimpleFlowDiagramLib.pdb
 D:\Git\SimpleFlowDiagram\SimpleFlowDiagram\SimpleFlowDiagramLib\bin\Debug\LearningMahesh.DynamicIOStream.dll
 D:\Git\SimpleFlowDiagram\SimpleFlowDiagram\SimpleFlowDiagramLib\obj\Debug\SimpleFlowDiagramLib.csprojResolveAssemblyReference.cache
+D:\git\SimpleFlowDiagram\SimpleFlowDiagramLib\bin\Debug\LearningMahesh.DynamicIOStream.dll
+D:\git\SimpleFlowDiagram\SimpleFlowDiagramLib\obj\Debug\SimpleFlowDiagramLib.csproj.AssemblyReference.cache
+D:\git\SimpleFlowDiagram\SimpleFlowDiagramLib\obj\Debug\SimpleFlowDiagramLib.csproj.CoreCompileInputs.cache
+D:\git\SimpleFlowDiagram\SimpleFlowDiagramLib\obj\Debug\SimpleFlowDiagramLib.csproj.CopyComplete
